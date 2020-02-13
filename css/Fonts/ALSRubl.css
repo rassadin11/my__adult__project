@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'ALS Rubl';
+  src: url("../Fonts/ALSRubl/ALSRubl.eot");
+  src: url("../Fonts/ALSRubl/ALSRubl.eot?#iefix") format("embedded-opentype"), url("../Fonts/ALSRubl/ALSRubl.woff") format("woff"), url("../Fonts/ALSRubl/ALSRubl.ttf") format("truetype"), url("../Fonts/ALSRubl/ALSRubl.svg#ALSRubl") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+.lorem {
+  font-family: "ALS Rubl"; }
