@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'PF Din Text Cond Pro';
+    src: url('PFDinTextCondPro-MediumItalic.eot');
+    src: url('PFDinTextCondPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('PFDinTextCondPro-MediumItalic.woff') format('woff'),
+        url('PFDinTextCondPro-MediumItalic.ttf') format('truetype'),
+        url('PFDinTextCondPro-MediumItalic.svg#PFDinTextCondPro-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+

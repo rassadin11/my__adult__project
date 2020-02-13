@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'BravoRG';
+    src: url('BravoRG.eot');
+    src: url('BravoRG.eot?#iefix') format('embedded-opentype'),
+        url('BravoRG.woff') format('woff'),
+        url('BravoRG.ttf') format('truetype'),
+        url('BravoRG.svg#BravoRG') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
